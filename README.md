@@ -4,6 +4,12 @@
 ## Project Overview
 This project involves working with real-world voter data from Mecklenburg County, NC. The main objectives are to import a large CSV dataset into a MySQL database, perform data cleaning, conduct data analysis, and implement various database operations and analytics.
 
+
+
+https://github.com/user-attachments/assets/520ddb83-acfe-4714-906d-3c971c0f3357
+
+
+
 ## Data Source
 The data is sourced from the Mecklenburg County Board of Elections voter data file. The cleaned dataset is provided as a 160 MB CSV file. The data contains P.I.I. and was provided by our professor therefore cannot be made publicly available. 
 
